@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PostEF", "PostEF\PostEF.csproj", "{0785CF27-D67D-45FB-94E8-ADED06BBEB41}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0785CF27-D67D-45FB-94E8-ADED06BBEB41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0785CF27-D67D-45FB-94E8-ADED06BBEB41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0785CF27-D67D-45FB-94E8-ADED06BBEB41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0785CF27-D67D-45FB-94E8-ADED06BBEB41}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F63788A4-29CC-4BDE-8E87-4028499D5F71}
+	EndGlobalSection
+EndGlobal
